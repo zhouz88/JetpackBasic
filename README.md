@@ -1,2 +1,2 @@
 # JetpackBasic
-切换语言 不变
+切换系统语言 数据 viewmodel 自动save
