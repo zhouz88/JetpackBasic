@@ -13,3 +13,4 @@
 2. 切换系统语言 数据 viewmodel 自动save (onSaveInstance) (To be confirmed)
 3. databinding 
 4. 加载回顾 https://blog.csdn.net/m0_37775035/article/details/83581739
+5. https://blog.csdn.net/wo541075754/article/details/105133115
