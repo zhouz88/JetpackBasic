@@ -17,7 +17,7 @@ public class LiveDataViewModel extends ViewModel {
         data1 = new MutableLiveData<>();
         data1.setValue(0);
         data2 = new MutableLiveData<>();
-        data2.setValue(0);
+        data2.setValue(5);
     }
 
     public void addData1() {
